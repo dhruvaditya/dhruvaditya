@@ -18,5 +18,5 @@
 
 - 📄 I have participate in these google cloud programs and completed successfully #30daysofgooglecloud program & learn to earn  https://www.cloudskillsboost.google/public_profiles/9d9472f8-71a2-4a40-935a-c415ff5a0633
 
-- ⚡  MY VISION **To Solve real world problem like environmental issue and education sector with the help of Technology**
+- ⚡  MY VISION **To Build some great projects which can help millions of people in their daily life**
 
