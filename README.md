@@ -4,13 +4,12 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
  
 </head>
 <body>
   <div class="wrapper">
     <div class="typing-demo">
-      <h1>Hi 👋, I'm ADITYA RAJ</h1>
+      <h1 align="center">Hi 👋, I'm ADITYA RAJ</h1>
     </div>
 
 <h3 align="center">Loves to do Competitive programming, web developing, Open source contribution,AI&ML and Cloud Computing</h3>
