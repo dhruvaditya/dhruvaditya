@@ -10,7 +10,7 @@
 <body>
   <div class="wrapper">
     <div class="typing-demo">
-      Hi 👋, I'm ADITYA RAJ
+      <h1>Hi 👋, I'm ADITYA RAJ</h1>
     </div>
 
 <h3 align="center">Loves to do Competitive programming, web developing, Open source contribution,AI&ML and Cloud Computing</h3>
