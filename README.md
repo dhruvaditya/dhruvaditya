@@ -6,15 +6,49 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
  
 </head>
+<style>
+  .wrapper {
+  height: 100vh;
+  /*This part is important for centering*/
+  display: grid;
+  place-items: center;
+}
+
+.typing-demo {
+  width: 43ch;
+  animation: typing 3s steps(22), blink .5s step-end infinite alternate;
+  white-space: nowrap;
+  overflow: hidden;
+  border-right: 3px solid;
+  font-family: monospace;
+  font-size: 2em;
+}
+
+@keyframes typing {
+  from {
+    width: 0
+  }
+}
+    
+@keyframes blink {
+  50% {
+    border-color: transparent
+  }
+}
+</style>
 <body>
   <div class="wrapper">
     <div class="typing-demo">
       <h1 align="center">Hi 👋, I'm ADITYA RAJ</h1>
     </div>
 
-<h3 align="center">Loves to do Competitive programming, web developing, Open source contribution,AI&ML and Cloud Computing</h3>
+<h3 align="center">Loves to do Competitive programming, web development, Android and IOS App Development,AI&ML and Cloud Computing</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvaditya&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvaditya" /> </p>
 
-<h3 align="center">- 🔭 I’m currently working on **WEB DEVELOPMENT PROJECT**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruvaditya" alt="dhruvaditya" /></a> </p>
+
+
+<h3 align="center">- 🔭 I’m currently working on **APP DEVELOPMENT PROJECT**
 
   - 🌱 I’m currently learning **MACHINE LEARNING**
   
