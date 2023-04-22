@@ -13,11 +13,16 @@
       <p align="center"><img width="80%" alt="Hello, I'm Aditya Loves to do Android Development" src="./image.png" /></a></p>
     </div>
 
-<h3 align="center">Loves to do Competitive programming, web development, Android and IOS App Development,AI&ML and Cloud Computing</h3>
+<h3 align="center">Loves to do Competitive programming, Web Development, Android and iOS App Development,AI&ML and Cloud Computing</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvaditya&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvaditya" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruvaditya" alt="dhruvaditya" /></a> </p>
+## Some of my stats :bar_chart:
 
+<img src="https://github-readme-stats.vercel.app/api?username=dhruvaditya&show_icons=true&theme=radical&include_all_commits=true">|<a href="https://stackoverflow.com/users/story/5679285"><img src="https://github-readme-stackoverflow.vercel.app/?userID=5679285&theme=dark" height="250"></a>
+|--|--|
+
+<br>
 
 <h3 align="center">- 🔭 I’m currently working on **APP DEVELOPMENT PROJECT**
 
