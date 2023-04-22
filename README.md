@@ -39,5 +39,13 @@
   - ⚡  MY VISION **To Build some great projects which can help millions of people in their daily life**
   </h3>
 </div>
+## Let's Connect :handshake:
+
+<a href="https://www.linkedin.com/in/aditya-raj-a4a8a7202/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>
+|--|--|
+### Here is a random meme for you, to make your day better
+(*PS: Refresh the page to see a new meme* :wink: )
+
+<a href="https://github.com/techytushar/random-memer"><img src='https://web-production-4cea.up.railway.app/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"></a>
 </body>
 </html>
